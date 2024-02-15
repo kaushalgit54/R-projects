@@ -1,0 +1,3 @@
+[submodule "Expense-tracker-react"]
+	path = Expense-tracker-react
+	url = https://github.com/kaushalgit54/Expense-tracker-react.git
